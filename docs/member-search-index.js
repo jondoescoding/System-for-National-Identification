@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ui","c":"TextUI","l":"go(SNIDApp)","url":"go(app.SNIDApp)"},{"p":"ui","c":"GUI","l":"GUI(SNIDApp)","url":"%3Cinit%3E(app.SNIDApp)"},{"p":"ui","c":"TextUI","l":"menu()"},{"p":"ui","c":"TextUI","l":"searchMenu()"},{"p":"ui","c":"TextUI","l":"TextUI()","url":"%3Cinit%3E()"}]
